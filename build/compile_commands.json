@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/Users/nikko/Documents/hse_cpp/set3/A2/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++20 -arch arm64 -o CMakeFiles/A2.dir/main.cpp.o -c /Users/nikko/Documents/hse_cpp/set3/A2/main.cpp",
+  "file": "/Users/nikko/Documents/hse_cpp/set3/A2/main.cpp",
+  "output": "CMakeFiles/A2.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/nikko/Documents/hse_cpp/set3/A2/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++20 -arch arm64 -o CMakeFiles/A2.dir/ArrayGenerator.cpp.o -c /Users/nikko/Documents/hse_cpp/set3/A2/ArrayGenerator.cpp",
+  "file": "/Users/nikko/Documents/hse_cpp/set3/A2/ArrayGenerator.cpp",
+  "output": "CMakeFiles/A2.dir/ArrayGenerator.cpp.o"
+},
+{
+  "directory": "/Users/nikko/Documents/hse_cpp/set3/A2/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++20 -arch arm64 -o CMakeFiles/A2.dir/instertionMerge.cpp.o -c /Users/nikko/Documents/hse_cpp/set3/A2/instertionMerge.cpp",
+  "file": "/Users/nikko/Documents/hse_cpp/set3/A2/instertionMerge.cpp",
+  "output": "CMakeFiles/A2.dir/instertionMerge.cpp.o"
+},
+{
+  "directory": "/Users/nikko/Documents/hse_cpp/set3/A2/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++20 -arch arm64 -o CMakeFiles/A2.dir/SortTester.cpp.o -c /Users/nikko/Documents/hse_cpp/set3/A2/SortTester.cpp",
+  "file": "/Users/nikko/Documents/hse_cpp/set3/A2/SortTester.cpp",
+  "output": "CMakeFiles/A2.dir/SortTester.cpp.o"
+}
+]

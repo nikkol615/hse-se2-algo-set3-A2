@@ -1,0 +1,1 @@
+/usr/bin/clang++ -g -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/A2.dir/main.cpp.o CMakeFiles/A2.dir/ArrayGenerator.cpp.o CMakeFiles/A2.dir/instertionMerge.cpp.o CMakeFiles/A2.dir/SortTester.cpp.o -o A2
